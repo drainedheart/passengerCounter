@@ -1,0 +1,42 @@
+
+body {
+    background-image: url("station.jpg");
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+h1 {
+    margin: 10px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button {
+    border: none;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-btn {
+    background: darkgray;
+}
+#save-btn {
+    background: darkgreen;
+}
+h1 {
+    color: darkgreen;
+}
+#count-el {
+    color: white;
+}
+#save-el {
+    color: white;
+}
